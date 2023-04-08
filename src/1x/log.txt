@@ -1,0 +1,11 @@
+/etc/space_080123 --- 08 янв 2023 21:48:59
+/etc/space_080123/space.rer_080123 --- 08 янв 2023 21:48:59 --- 59kb
+/etc/space_080123/sspace.rer_080123 --- 08 янв 2023 21:48:59 --- 59kb
+/etc/space_080123/ssspace.rer_080123 --- 08 янв 2023 21:48:59 --- 59kb
+/etc/space_080123/sssspace.rer_080123 --- 08 янв 2023 21:48:59 --- 59kb
+/etc/space_080123/ssssspace.rer_080123 --- 08 янв 2023 21:48:59 --- 59kb
+/etc/space_080123/sssssspace.rer_080123 --- 08 янв 2023 21:48:59 --- 59kb
+/etc/space_080123/ssssssspace.rer_080123 --- 08 янв 2023 21:48:59 --- 59kb
+/etc/space_080123/sssssssspace.rer_080123 --- 08 янв 2023 21:48:59 --- 59kb
+/etc/space_080123/ssssssssspace.rer_080123 --- 08 янв 2023 21:48:59 --- 59kb
+/etc/space_080123/sssssssssspace.rer_080123 --- 08 янв 2023 21:48:59 --- 59kb
